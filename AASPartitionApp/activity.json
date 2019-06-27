@@ -1,0 +1,13 @@
+﻿{
+  "typeProperties": 
+  {
+    "extendedProperties": {
+      "Instance": "<AAS Server Name>",
+      "Database": "<AAS Database Name>",
+      "Table": "<Table Name>",
+      "PartitionName": "<Partition Name>",
+      "PartitionDatasource": "<Data Source Name of Partition>",
+      "PartitionQuery": "<Partition SQL Query>"
+    }
+  }
+}

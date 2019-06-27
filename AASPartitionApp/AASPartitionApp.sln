@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AASPartitionApp", "AASPartitionApp.csproj", "{927B09F9-0D8E-42DD-8B10-16897B7ABC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927B09F9-0D8E-42DD-8B10-16897B7ABC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927B09F9-0D8E-42DD-8B10-16897B7ABC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927B09F9-0D8E-42DD-8B10-16897B7ABC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927B09F9-0D8E-42DD-8B10-16897B7ABC69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABDC023-CC57-4C7B-93F5-900F482FDF08}
+	EndGlobalSection
+EndGlobal
